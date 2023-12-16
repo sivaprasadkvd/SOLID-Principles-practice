@@ -1,0 +1,14 @@
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\bin\Debug\net8.0\solid principles practice.exe
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\bin\Debug\net8.0\solid principles practice.deps.json
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\bin\Debug\net8.0\solid principles practice.runtimeconfig.json
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\bin\Debug\net8.0\solid principles practice.dll
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\bin\Debug\net8.0\solid principles practice.pdb
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\obj\Debug\net8.0\solid principles practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\obj\Debug\net8.0\solid principles practice.AssemblyInfoInputs.cache
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\obj\Debug\net8.0\solid principles practice.AssemblyInfo.cs
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\obj\Debug\net8.0\solid principles practice.csproj.CoreCompileInputs.cache
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\obj\Debug\net8.0\solid principles practice.dll
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\obj\Debug\net8.0\refint\solid principles practice.dll
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\obj\Debug\net8.0\solid principles practice.pdb
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\obj\Debug\net8.0\solid principles practice.genruntimeconfig.cache
+C:\Users\kvdsp\source\repos\solid principles practice\solid principles practice\obj\Debug\net8.0\ref\solid principles practice.dll
